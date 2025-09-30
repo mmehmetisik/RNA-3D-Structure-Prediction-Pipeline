@@ -78,15 +78,6 @@ rna-3d-structure-prediction/
 │
 ├── 📂 preprocessing/
 │   └── Pre-Processing.ipynb
-│
-├── 📂 results/
-│   ├── 📂 foto/
-│   │   └── (Görselleştirmeler)
-│   ├── 📂 submissions/
-│   │   └── fist solution/ (İlk çözümünüz)
-│   └── 📂 error_logs/
-│       └── (Hata logları)
-│
 ├── README.md
 ```
 
